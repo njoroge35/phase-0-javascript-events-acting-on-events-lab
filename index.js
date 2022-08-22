@@ -8,3 +8,4 @@ const moveDodgerLeft = () => {
     const dodger = document.getElementById("dodger");
     dodger.style.left = "250px";
   }
+  moveDodgerRight()
